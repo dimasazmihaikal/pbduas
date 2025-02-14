@@ -11,3 +11,7 @@ password : 123456
 setelah di clone lakukan instalasi ulang pada folder projek
 npm install
 composer install
+
+dan pastikan untuk menjalankan
+npm run dev
+php artisan serve
